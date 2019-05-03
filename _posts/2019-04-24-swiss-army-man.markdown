@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "Product Manager - человек - швейцарский нож!"
 date:   2019-04-24 09:13:42 +0300
-categories: jekyll update
+categories: management
 ---
 
 TLDR: Product manager - это не профессия, это набор приемов, позволяющий увеличить вероятность решения задачи / успеха локального проекта / построения и роста бизнеса.
