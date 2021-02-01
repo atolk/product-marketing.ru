@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Будни продуктов
-email: anton@atolk.me
-description: Заметки и наблюдения продакт-менеджера.
+title: Продуктовый маркетинг
+email: antontolkachev@gmail.com
+description: Продуктовый маркетинг сложных продуктов с длинным циклом сделки.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://atolk.me # the base hostname & protocol for your site, e.g. http://example.com
+url: https://product-marketing.ru # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:  
 facebook_username: tolkachev.me
@@ -40,7 +40,7 @@ disqus:
     shortname: atolk-me
 
 # GTM
-gtm_container: GTM-NFKHR5M
+gtm_container: GTM-W28RDJ4
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
